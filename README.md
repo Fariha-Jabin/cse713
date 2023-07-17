@@ -8,7 +8,8 @@ Paper title:
 BANGLA SIGN DIGITS RECOGNITION USING DEPTH INFORMATION
 
 Link to the paper:
-https://ieeexplore......
+(https://www.researchgate.net/publication/359036364_Bangla_sign_digits_recognition_using_depth_information)
+
 
 Group Number:
 17
